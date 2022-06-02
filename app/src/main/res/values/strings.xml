@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="application">Valorant Quiz!</string>
+    <string name="cardViewText">Test Your Game Knowledge</string>
+    <string name="nameEnter">Please enter your name.</string>
+    <string name="name">Name</string>
+    <string name="startBTN">Start</string>
+    <string name="progressBar">0/18</string>
+    <string name="quizImage">Quiz Image</string>
+    <string name="submit">SUBMIT</string>
+    <string name="nxtQuestion">Go to Next Question</string>
+    <string name="finish">FINISH</string>
+    <string name="results">Valorant Quiz Result</string>
+    <string name="congratulations">Hey, Congratulations</string>
+</resources>
